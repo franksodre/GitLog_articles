@@ -4,7 +4,7 @@
   "date": "11 March 2025",
   "body": {
     "block1": {
-      "title": "Introduction",
+      "heading2": "Introduction",
       "block": "Big news hit the developer world last week: on March 11, 2025, the TypeScript team at Microsoft announced they’ve ported the TypeScript compiler from its original TypeScript/JavaScript roots to Go, promising a jaw-dropping 10x performance increase. This move tackles long-standing gripes about slow compile times and sluggish editor performance, especially in massive codebases. Lead architect Anders Hejlsberg explained that JavaScript’s limits were holding them back, saying, ‘We’ve squeezed all we can out of it.’ The result? A native compiler that slashes build times and boosts the entire TypeScript ecosystem, from CLI to IDEs."
     },
     "block2": "Why Go over Rust or C#? It’s the question on every developer’s mind since the March 11, 2025 announcement. The TypeScript team chose Go for its structural similarity to their existing JavaScript codebase, making the port smoother and faster—12 engineers pulled it off in just five months! Go’s native compilation, garbage collection, and concurrency features also align perfectly with TypeScript’s needs, delivering single-core speedups of 3x and another 3x from parallel processing. Early benchmarks are staggering: compiling Visual Studio Code’s 1.5 million lines drops from 77.8 seconds to 7.5 seconds. Memory usage? Cut in half. This isn’t a rewrite from scratch—it’s a strategic leap forward.",
