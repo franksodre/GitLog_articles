@@ -26,6 +26,6 @@
     "block6": {
       "heading2": "The Future: Faster Coding, Smarter Tools",
       "block": "This isn't just about speed—it's about what speed unlocks, as we learned from the March 11, 2025 drop. With TypeScript 7, expect snappier IDEs, real-time error detection, and room for AI-powered tools to shine, all thanks to tighter latency and lower memory demands. The Go port could also inspire other JavaScript ecosystem projects to lean on compiled languages, signaling a shift from JavaScript's performance ceiling. As one X user put it, 'JavaScript built the web, but Go might perfect it.' For now, developers await the beta with bated breath, ready to ditch the lag and code at lightspeed."
-    },
+    }
   }
 }
