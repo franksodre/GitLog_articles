@@ -8,7 +8,7 @@ This project is a simple, developer-friendly blog built with React and Vite. It 
 ## 🚀 Features
 
 - ⚡ Fast build using Vite
-- 📝 Blog content written in ".md" or ".mdx" files
+- 📝 Blog content written in \`.md\` or \`.mdx\` files
 - 🧱 Support for React components inside blog posts (via MDX)
 - 🎨 Easy to customize layout and components
 - 🛠️ Developer-focused setup
@@ -17,6 +17,6 @@ This project is a simple, developer-friendly blog built with React and Vite. It 
 
 ### 1. Clone the Repository
 
-```bash
+\`\`\`bash
 git clone https://github.com/your-username/your-blog-repo.git
 cd your-blog-repo
