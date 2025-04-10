@@ -18,6 +18,6 @@ This project is a simple, developer-friendly blog built with React and Vite. It 
 
 ### 1. Clone the Repository
 
-``bash
+```bash
 git clone https://github.com/your-username/your-blog-repo.git
 cd your-blog-repo
