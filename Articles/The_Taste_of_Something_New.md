@@ -2,6 +2,7 @@
 author: FrankSodreLima
 title: The Taste of Something New
 date: Apr 13 2025
+description: Sometimes we need to try new things, even if we don't have sure
 ---
 
 <p align="center">
