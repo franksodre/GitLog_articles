@@ -9,7 +9,7 @@ description: This is the story that made me realize being considered the best is
   <img src="https://api.deepai.org/job-view-file/5644a6a1-7ac5-4144-8179-1f986168f0c6/outputs/output.jpg" alt="a man walking in a dark place with a moonlight" />
 </p>
 
-<span><i>AI generated image</i></span>
+<span style="background-color: #425066;"><i>AI generated image</i></span>
 <br>
 
 
