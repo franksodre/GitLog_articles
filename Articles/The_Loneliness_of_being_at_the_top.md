@@ -7,7 +7,7 @@ description: This is the story that made me realize being considered the best is
 
 <!-- using my pc as a host -->
 <p align="center">
-  <img src="../IMG/oO76zzx-.jpeg" alt="a man walking in a dark place with a moonlight" />
+  <img src="https://i.pinimg.com/736x/97/30/83/973083545eb36bddedb9c639fb39569f.jpg" alt="a man walking in a dark place with a moonlight" />
 </p>
 
 <span style="background-color: #425066;"><i>AI generated image</i></span>
