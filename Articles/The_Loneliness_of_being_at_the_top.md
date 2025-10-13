@@ -5,8 +5,9 @@ date: Mon October 13, 2025
 description: This is the story that made me realize being considered the best isn't always a good thing. 
 ---
 
+<!-- using my pc as a host -->
 <p align="center">
-  <img src="https://api.deepai.org/job-view-file/5644a6a1-7ac5-4144-8179-1f986168f0c6/outputs/output.jpg" alt="a man walking in a dark place with a moonlight" />
+  <img src="./IMG/oO76zzx-.jpeg" alt="a man walking in a dark place with a moonlight" />
 </p>
 
 <span style="background-color: #425066;"><i>AI generated image</i></span>
